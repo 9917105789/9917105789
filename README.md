@@ -2,9 +2,9 @@
 - 👀 I’m interested in Maths
 - 🌱 I’m currently learning Data-Structures-and-Algorithm
 - 💞️ I’m looking to collaborate on 
-- 📫 How to reach me sgarg6003@gmail.com/shivam_garg.scsebtech@galgotiasuniversity.edu.in
+- 📫 How to reach me sgarg6003@gmail.com
 
-Follow on @Sgarg6003Garg
+Follow on 
 
 <!---
 9917105789/9917105789 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
